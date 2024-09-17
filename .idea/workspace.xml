@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.InitOrderKt">
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.GreeterTestKt" />
       <module name="OOPKotlin" />
@@ -49,8 +49,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InitOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.InitOrderKt" />
+      <module name="OOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InitOrderKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
     </recent_temporary>
