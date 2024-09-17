@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="PersonA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/PersonB.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="PersonC.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/PersonD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PersonCKt">
-    <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.GreeterTestKt" />
-      <module name="OOPKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PersonDKt">
     <configuration name="InitOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.InitOrderKt" />
       <module name="OOPKotlin" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.PersonDKt" />
+      <module name="OOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonDKt" />
         <item itemvalue="Kotlin.PersonCKt" />
         <item itemvalue="Kotlin.PersonBKt" />
         <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.InitOrderKt" />
-        <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726547312255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PersonC.kt">
+      <created>1726547870676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726547870676</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +137,7 @@
     <MESSAGE value="GreeterTest.kt" />
     <MESSAGE value="InitOrder.kt" />
     <MESSAGE value="PersonA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonA.kt" />
+    <MESSAGE value="PersonC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonC.kt" />
   </component>
 </project>
