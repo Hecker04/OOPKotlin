@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EnkapsulasiAKt">
+  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
     <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.EnkapsulasiAKt" />
       <module name="OOPKotlin" />
@@ -45,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.PersonCKt" />
+    <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.EnkapsulasiBKt" />
       <module name="OOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonDKt" />
-        <item itemvalue="Kotlin.PersonCKt" />
       </list>
     </recent_temporary>
   </component>
