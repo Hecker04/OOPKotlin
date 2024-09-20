@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="PersonF.kt" />
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="EnkapsulasiB.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
+  <component name="RunManager" selected="Kotlin.InheritanceAKt">
     <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.EnkapsulasiAKt" />
       <module name="OOPKotlin" />
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.PersonDKt" />
+    <configuration name="InheritanceAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.InheritanceAKt" />
       <module name="OOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceAKt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
-        <item itemvalue="Kotlin.PersonDKt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726548458409</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="EnkapsulasiA.kt">
+      <created>1726825625617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726825625617</updated>
+    </task>
+    <task id="LOCAL-00010" summary="EnkapsulasiB.kt">
+      <created>1726825773428</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726825773428</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +174,8 @@
     <MESSAGE value="PersonD.kt" />
     <MESSAGE value="PersonE.kt" />
     <MESSAGE value="PersonF.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonF.kt" />
+    <MESSAGE value="EnkapsulasiA.kt" />
+    <MESSAGE value="EnkapsulasiB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnkapsulasiB.kt" />
   </component>
 </project>
