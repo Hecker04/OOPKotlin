@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="InheritanceB.kt" />
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="InheritanceD.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,14 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceDKt">
-    <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.EnkapsulasiBKt" />
-      <module name="OOPKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InheritanceEKt">
     <configuration name="InheritanceAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.InheritanceAKt" />
       <module name="OOPKotlin" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.freyayusri.test_kelas.InheritanceEKt" />
+      <module name="OOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceEKt" />
         <item itemvalue="Kotlin.InheritanceDKt" />
         <item itemvalue="Kotlin.InheritanceCKt" />
         <item itemvalue="Kotlin.InheritanceBKt" />
         <item itemvalue="Kotlin.InheritanceAKt" />
-        <item itemvalue="Kotlin.EnkapsulasiBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726825982429</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="InheritanceC.kt">
+      <created>1726826435825</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726826435825</updated>
+    </task>
+    <task id="LOCAL-00014" summary="InheritanceD.kt">
+      <created>1726826604536</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726826604536</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +206,8 @@
     <MESSAGE value="EnkapsulasiB.kt" />
     <MESSAGE value="InheritanceA.kt" />
     <MESSAGE value="InheritanceB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InheritanceB.kt" />
+    <MESSAGE value="InheritanceC.kt" />
+    <MESSAGE value="InheritanceD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InheritanceD.kt" />
   </component>
 </project>
