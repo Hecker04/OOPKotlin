@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="AccessModifierA.kt">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/AccessModifierA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/AccessModifierA.kt" afterDir="false" />
-    </list>
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="NestedInnerClass.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,7 +253,42 @@
       <option name="project" value="LOCAL" />
       <updated>1726972894508</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="InterfaceA.kt">
+      <created>1726972947635</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726972947635</updated>
+    </task>
+    <task id="LOCAL-00025" summary="InterfaceB.kt">
+      <created>1726973001247</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973001247</updated>
+    </task>
+    <task id="LOCAL-00026" summary="InterfaceC.kt">
+      <created>1726973054303</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973054303</updated>
+    </task>
+    <task id="LOCAL-00027" summary="InterfaceD.kt">
+      <created>1726973105592</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973105592</updated>
+    </task>
+    <task id="LOCAL-00028" summary="NestedInnerClass.kt">
+      <created>1726973190797</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973190797</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,8 +303,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oop kotlin 3" />
-    <MESSAGE value="GreeterTest.kt" />
     <MESSAGE value="InitOrder.kt" />
     <MESSAGE value="PersonA.kt" />
     <MESSAGE value="PersonC.kt" />
@@ -292,6 +323,11 @@
     <MESSAGE value="PolymorphismB.kt" />
     <MESSAGE value="VisibilityA.kt" />
     <MESSAGE value="AccessModifierA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="AccessModifierA.kt" />
+    <MESSAGE value="InterfaceA.kt" />
+    <MESSAGE value="InterfaceB.kt" />
+    <MESSAGE value="InterfaceC.kt" />
+    <MESSAGE value="InterfaceD.kt" />
+    <MESSAGE value="NestedInnerClass.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="NestedInnerClass.kt" />
   </component>
 </project>
