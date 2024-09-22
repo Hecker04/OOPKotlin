@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="InheritanceH.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/PolymorphismA.kt" afterDir="false" />
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="PolymorphismB.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,8 +220,33 @@
       <option name="project" value="LOCAL" />
       <updated>1726826962852</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="PolymorphismA.kt">
+      <created>1726827090223</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726827090223</updated>
+    </task>
+    <task id="LOCAL-00020" summary="PolymorphismB.kt">
+      <created>1726827176763</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726827176763</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oop kotlin 3" />
@@ -242,6 +267,8 @@
     <MESSAGE value="InheritanceF.kt" />
     <MESSAGE value="InheritanceG.kt" />
     <MESSAGE value="InheritanceH.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InheritanceH.kt" />
+    <MESSAGE value="PolymorphismA.kt" />
+    <MESSAGE value="PolymorphismB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="PolymorphismB.kt" />
   </component>
 </project>
