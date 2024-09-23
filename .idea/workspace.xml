@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="NestedInnerClass.kt" />
+    <list default="true" id="8f600f0c-36e2-4490-8864-2ff85b7cc834" name="Changes" comment="DataClassD.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/DataClassE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/freyayusri/test_kelas/DataClassF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -288,7 +292,49 @@
       <option name="project" value="LOCAL" />
       <updated>1726973190797</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="NestedInnerClassA.kt">
+      <created>1726973269156</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973269156</updated>
+    </task>
+    <task id="LOCAL-00030" summary="NestedInnerClassB.kt">
+      <created>1726973322837</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973322837</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DataClassA.kt">
+      <created>1726973365636</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973365636</updated>
+    </task>
+    <task id="LOCAL-00032" summary="DataClassB.kt">
+      <created>1726973407771</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973407771</updated>
+    </task>
+    <task id="LOCAL-00033" summary="DataClassC.kt">
+      <created>1726973455148</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973455148</updated>
+    </task>
+    <task id="LOCAL-00034" summary="DataClassD.kt">
+      <created>1726973502218</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726973502218</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,12 +349,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="InitOrder.kt" />
-    <MESSAGE value="PersonA.kt" />
-    <MESSAGE value="PersonC.kt" />
-    <MESSAGE value="PersonD.kt" />
-    <MESSAGE value="PersonE.kt" />
-    <MESSAGE value="PersonF.kt" />
     <MESSAGE value="EnkapsulasiA.kt" />
     <MESSAGE value="EnkapsulasiB.kt" />
     <MESSAGE value="InheritanceA.kt" />
@@ -328,6 +368,12 @@
     <MESSAGE value="InterfaceC.kt" />
     <MESSAGE value="InterfaceD.kt" />
     <MESSAGE value="NestedInnerClass.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="NestedInnerClass.kt" />
+    <MESSAGE value="NestedInnerClassA.kt" />
+    <MESSAGE value="NestedInnerClassB.kt" />
+    <MESSAGE value="DataClassA.kt" />
+    <MESSAGE value="DataClassB.kt" />
+    <MESSAGE value="DataClassC.kt" />
+    <MESSAGE value="DataClassD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataClassD.kt" />
   </component>
 </project>
